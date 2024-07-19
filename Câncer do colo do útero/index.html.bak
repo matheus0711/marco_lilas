@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Câncer do Colo do Útero</title>
+		<meta charset="UTF-8">
+			<style>
+				.img{width: 600px; height: 300px;}
+				.img2{width: 270px; height: 170px;}
+				h1{color:indigo;}
+				h2{color:darkviolet;}
+				h3{color:#8A2BE2;}
+				h4{color:#7B68EE;}
+				body{background-color:#E6E6FA; margin-left: 150px; margin-right: 150px; font-family: Trebuchet MS, sans-serif;}
+				p{text-align: justify; text-indent: 15px;}
+		
+			</style>
+		</head>
+		
+		<body>
+		<center>
+			<h1>🌸 Março Lilás: Mês de Prevenção do Câncer do Colo do Útero 🌸</h1>
+		</center>
+		
+		<center>
+			<figure>
+				<img class="img" src="img/laço lilás.png" alt="Março Lilás">
+				<figcaption></figcaption>
+			</figure>
+		</center>
+		
+		<b><p>Março Lilás é um mês dedicado à conscientização e prevenção do câncer de colo do útero, uma das principais causas de morte por câncer entre as mulheres. Essa campanha busca alertar sobre a importância dos cuidados preventivos e da detecção precoce.</p></b>
+		<h2>O que é?</h2>
+		<p>O câncer do colo do útero, também chamado de câncer cervical, é causado pela infecção genital persistente por alguns tipos do Papilomavírus Humano - HPV (chamados de tipos oncogênicos).
+		 Esse vírus é sexualmente transmissível, muito frequente na população e seria evitável o contágio com o uso de preservativos. Na maioria das vezes a infecção não causa doença, mas em alguns casos, ocorrem alterações celulares que podem evoluir ao longo dos anos para o câncer</p>
+		 
+		 
+		<figure>
+			<img class="img2" src="img/útero.png" alt="O que é">
+			<figcaption></figcaption>
+		</figure> 
+		 
+		 <h2>Quais as causas?</h2>
+		 <p>O câncer de colo de útero é causado por uma infecção sexual, que tem origem no HPV, IST muito comum em todo o país. Isso acaba fazendo com que células sofram com transformações anormais e elas cresçam de maneira totalmente desordenada.<br>
+         Ou seja, a sua causa já é bem conhecida pela ciência, o que também nos diz que os processos de cura também são bem desenvolvidos.</p>
+		 
+		<h2>Quais os sintomas?</h2>
+		<p>O câncer do colo do útero pode se desenvolver sem sintomas até que atinja um estágio avançado. No entanto, há alguns sintomas que são indicativos da doença e merecem atenção quando ocorrem. </p>
+		<h4>São eles:</h4>
+		<ul>
+			<li>Sangramento vaginal irregular – costuma ocorrer após a relação sexual, mas pode acontecer, espontaneamente, entre as menstruações.</li>
+
+			<li>Corrimento vaginal fétido – geralmente, de coloração marrom;</li>
+
+			<li>Dor pélvica contínua e dor durante a relação sexual.</li>
+		</ul>
+		<h4>Quando a doença já está amplamente disseminada, pode causar:</h4>
+		<ul>
+			<li>Impedimento funcional ou estrutural do fluxo urinário normal (obstrução das vias urinárias);</li>
+
+			<li>Dor lombar;</li>
+
+			<li>Edema nas pernas – decorrente de obstrução venosa ou linfática;</li>
+
+			<li>Fadiga excessiva;</li>
+
+			<li>Perda de peso sem motivo aparente.</li>
+		</ul>
+		
+		<h2>Como previnir?</h2>
+		<p>A principal forma de prevenção é a vacina contra o HPV, disponível para meninas de 9 a 14 anos e meninos de 11 a 14 anos). Ela é eficiente contra 70% dos cânceres de colo do útero e 90% das verrugas genitais.<br>
+         Outra forma de prevenção está relacionada à diminuição do risco de contágio pelo HPV, que ocorre por via sexual, com o uso de preservativos durante a relação sexual.<br>
+		 Além disso, o exame preventivo (conhecido como Papanicolau), deve ser feito periodicamente por todas as mulheres após o início da vida sexual.</p>
+		 
+		 <figure>
+			<img class="img2" src="img/vacina.png" alt="Vacina HPV">
+			<figcaption></figcaption>
+		</figure> 
+		
+		<h3>Preventivo</h3>
+		
+		<p>É um teste realizado para detectar alterações nas células do colo do útero. Este exame também pode ser chamado de esfregaço cervicovaginal e colpocitologia oncótica cervical. O nome “Papanicolaou” é uma homenagem ao patologista grego Georges Papanicolaou, que criou o método no início do século. Esse exame é a principal estratégia para detectar lesões precocemente e fazer o diagnóstico da doença bem no início, antes que a mulher tenha sintomas. Pode ser feito em postos ou unidades de saúde da rede pública que tenham profissionais capacitados. É fundamental que os serviços de saúde orientem sobre o que é e qual a importância do exame preventivo, pois sua realização periódica permite que o diagnóstico seja feito cedo e reduza a mortalidade por câncer do colo do útero. O exame preventivo é indolor, simples e rápido. Pode, no máximo, causar um pequeno desconforto que diminui se a mulher conseguir relaxar e se o exame for realizado com boa técnica e de forma delicada.</p>
+		
+		<figure>
+			<img class="img2" src="img/prevenção.png" alt="Preventivo">
+			<figcaption></figcaption>
+		</figure> 
+		
+		<h4>Como é feito o exame? </h4>
+		<ul>
+			<li>Para a coleta do material, é introduzido um instrumento chamado espéculo na vagina (conhecido popularmente como “bico de pato”, devido ao seu formato);</li>
+	
+			<li>O médico faz a inspeção visual do interior da vagina e do colo do útero;</li>
+
+			<li>A seguir, o profissional provoca uma pequena escamação da superfície externa e interna do colo do útero com uma espátula de madeira e uma escovinha;</li>
+
+			<li>As células colhidas são colocadas numa lâmina para análise em laboratório especializado em citopatologia.</li>
+
+		</ul>
+		<br>
+		
+		<h3>Dra Vivian Coski Oncologista falando sobre o assunto.</h3>
+		<video width="320" height="240" controls>
+			<source src="video.mp4" type="video/mp4">
+			Seu navegador não suporta o elemento de vídeo.
+		</video>
+		
+		<h3>Agradecemos por seu apoio</h3>
+		<p>Agradecemos por visitar nosso site e por se juntar a nós nessa importante campanha. Sua saúde é valiosa e merece atenção e cuidado. Ao seguir as orientações de prevenção e detecção precoce, você está dando um passo vital na proteção contra o câncer de colo do útero.</p
+		
+		
+		
+	
+	
+		<br>
+		<center>
+			<figure>
+				<img class="img" src="img/março.campanha.webp" alt="Concientização">
+				<figcaption>💜 Cuide-se, ame-se e previna-se! 💜</figcaption>
+			</figure> 
+		</center>
+		
+		
+		
+	</body>
+</html>
